@@ -37,7 +37,7 @@
                 <td><?php echo $result[0]; ?></td>
                 <td><?php echo $result[1]; ?></td>
                 <td><?php echo $result[2]; ?></td>
-                <td><img src="<?php echo $result[3]; ?>" width="50px" height="50" alt="i" ></td>
+                <td><img src="images/<?php echo $result[3]; ?>" width="50px" height="50" alt="image" ></td>
             </tr>
 
             <?php
