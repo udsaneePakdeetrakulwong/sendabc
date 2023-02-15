@@ -12,10 +12,14 @@
         <input type="text"placeholder='Enter your name' name ="C_Name">
         <br><br>
         <input type="text" placeholder='Enter your phone number' name = "PhoneNumber">
-        <br><br>
+        <br>
+        <H3>กรอกที่อยู่ของคุณ</H3>
+        <br>
         <textarea id="address" name="address"
           rows="5" cols="33"></textarea>
-          <br><br>
+          <br>
+          <h3>แนบรูปภาพ</h3>
+          <br>
           <input type="file" name="sleeper" id="sleeper">
           <br><br>
           <input type="submit">
